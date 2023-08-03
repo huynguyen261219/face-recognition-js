@@ -1,0 +1,2 @@
+- Using JS and face-api support for face recognition
+- Models trained from https://github.com/justadudewhohacks/face-api.js/tree/master/weights
